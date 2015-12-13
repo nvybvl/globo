@@ -4,7 +4,7 @@
     <div class="span12">
     <div class="middle">
 
-    <div class="abs">
+    <div class="abs"> 
         <div class="middle nav-wrap">
             <div class="row-fluid">
                 <div class="span12">
