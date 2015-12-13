@@ -1,0 +1,334 @@
+.ppbox{font-family:'Times New Roman';font-size:14px;margin:15px}.ppbox1{float:left;font-size:16px!important;margin-right:10px;width:50%}.ppbox3{float:left;width:960px}.ppboxa{background-image:url(http://pf.serviciifunerare-nonstop.ro/ppboxa.jpg);background-repeat:repeat-x;border:2px solid #dad382;float:left;height:187px;margin-left:-20px;margin-right:3px;width:230px}.ppboxd{background-image:url(http://pf.serviciifunerare-nonstop.ro/ppboxa.jpg);background-repeat:repeat-x;border:2px solid #dad382;float:left;height:187px;margin-right:-10px;width:230px}.ppboxaimg{float:left;margin:5px}.ppboxatitle{color:#98632B;font-size:20px;margin-bottom:-20px;margin-top:18px}.ppboxamsg{margin-top:-25px}.ppboxadetalii{padding-left:130px}.pfbox{clear:both;color:#5F5F5F;font-family:Georgia,FuturaTEERegular;padding-top:50px}.pfbox1{background-image:url(http://pf.serviciifunerare-nonstop.ro/pfbox1.png);background-repeat:no-repeat;height:370px;width:938px}.pfboxtitle{color:#5F5F5F;font-family:Georgia,FuturaTEERegular;font-size:20px;font-weight:700;margin-bottom:-10px;padding-left:40px;padding-top:20px}.pfboxprice{float:right;font-size:30px;font-weight:700;margin-bottom:-10px;margin-right:-66px;margin-top:-39px;padding-left:34px;padding-right:76px;padding-top:10px}.pfboximg{float:left;margin-top:60px}.pfboxlist{margin-top:60px}.leftul{float:left;margin-bottom:10px;margin-left:-15px;margin-right:25px;font-family:Georgia,'FuturaTEERegular' !Important;}.rightul{float:left;font-family:Georgia,'FuturaTEERegular' !Important;}
+.pfboxcontact{clear:both;font-weight:700;margin-left:40px;padding-top:10px;font-size:18px;}
+.clear{clear:both}.price{color:#C57424;font-family:Redressed, cursive;font-size:16px;font-weight:700}.ppboxb,.ppboxc{background-image:url(http://pf.serviciifunerare-nonstop.ro/ppboxa.jpg);background-repeat:repeat-x;border:2px solid #dad382;float:left;height:187px;margin-right:3px;width:230px}.pptrad{background-image:url(http://pf.serviciifunerare-nonstop.ro/pptrad.png);background-repeat:no-repeat;height:470px;width:938px}.pfboxtitlet{color:#5F5F5F;font-family:Georgia,FuturaTEERegular;font-size:20px;font-weight:700;margin-bottom:-10px;padding-left:40px;padding-top:20px}.pfboximgt{float:left;margin-top:60px}.pfboxlistt{margin-top:60px}.leftult{float:left;margin-bottom:10px;margin-left:-15px;margin-right:25px}.rightult{float:left}.pfboxcontactt{clear:both;font-weight:700;margin-left:40px;padding-top:80px}.prett{font-family:Philosopher, serif;font-size:25px;font-style:normal;color:#9F9F9F;font-weight:700;text-shadow:2px 2px 2px #aaa;text-decoration:none;text-transform:capitalize;letter-spacing:0;word-spacing:0;line-height:1.2}
+
+.pfbox0{background-image:url(http://pf.serviciifunerare-nonstop.ro/pfbox0.png);background-repeat:no-repeat;height:370px;width:938px}
+.pfboxtitle0{color:#5F5F5F;font-family:Georgia,FuturaTEERegular;font-size:20px;font-weight:700;padding-top: 40px; margin-bottom: -10px; padding-left: 36px;}
+.pfboxtitle2{color:#5F5F5F;font-family:Georgia,FuturaTEERegular;font-size:20px;font-weight:700;padding-left: 0px; margin-top: -80px; margin-left: 0px; margin-right: 211px;float:right;}
+.pfboxprice0{float:right;font-size:30px;font-weight:700;margin-bottom:-10px;margin-right:-66px;margin-top:-39px;padding-left:34px;padding-right:76px;padding-top:10px}
+.pfboximg0{float:left;margin-top:60px}
+.pfboxlist0{margin-top:60px}
+.pfboxcontact0{clear:both;font-weight:700;margin-left:40px;padding-top:10px}
+.pfboxtitlet0{color:#5F5F5F;font-family:Georgia,FuturaTEERegular;font-size:20px;font-weight:700;margin-bottom:-10px;padding-left:40px;padding-top:20px}
+.pfboximgt0{float:left;margin-top:60px}
+.pfboxlistt0{margin-top:60px}
+.pfboxcontactt0{clear:both;font-weight:700;margin-left:40px;padding-top:80px}
+.leftul0{float:left;margin-left: 0px; margin-right: 0px; padding-left: 87px;font-family:Georgia,'FuturaTEERegular' !Important;}
+.rightul0{float:right;font-family:Georgia,'FuturaTEERegular' !Important;margin-right: 155px;}
+body .container { width: 1000px; }
+
+/* MNS
+--------------------------------------------*/
+/* pachet funerar 
+--------------------------------------------------------------------------------*/
+div.pachetx {
+	position: relative;
+    width: 930px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 0px;
+    border: 1px solid #908787;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;
+}
+
+/* 	bg pachete
+--------------------------------------------------------------------------------*/
+/*
+#inc-completax{background: url(../text/inc-completax.png) left top no-repeat;}
+#promotionalx{background: url(../text/promotionalx2.png) left top no-repeat;}
+#lux-completx{background: url(../text/lux-completx.png) left top no-repeat;}
+#inc-spitalx{background: url(../text/inc-spitalx.png) left top no-repeat;}
+#completx{background: url(../text/completx.png) left top no-repeat;}
+#premiumx{background: url(../text/premiumx.png) left top no-repeat;}
+#avantaj{background: url(../text/avantaj.png) left top no-repeat;}
+#bostonx{background: url(../text/bostonx.png) left top no-repeat;}
+#mediux{background: url(../text/mediux.png) left top no-repeat;}
+#zerox{background: url(../text/zero-ro.png) left top no-repeat;}
+#luxx{background: url(../text/luxx.png) left top no-repeat;}
+*/
+
+
+
+/* customizare liste 
+--------------------------------------------------------------------------------*/
+.pachetx div.listex {
+	position: absolute;
+	top: 90px;
+	left: 20px;
+	margin-bottom: 10px;
+}
+.pachetx div.listex ul li {
+	list-style-type: none;
+	font-family: Tahoma;
+	font-size: 13px;
+	line-height: 13px;
+	color: #3d3d3d;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.pachetx div.listex ul {
+	list-style-image: url(../img/check.png);
+	float: left;
+}
+
+/* lista stanga 
+--------------------------------------------------------------------------------*/
+.pachetx div.listex ul.lista-unux {
+	margin-right: 5px;
+}
+
+/* lista dreapta 
+--------------------------------------------------------------------------------*/
+.pachetx div.listex ul.lista-doix {
+	margin-right: 5px;
+    margin-left: 40px;
+}
+
+.pachetx div.thumbx {
+	position: absolute;
+	top: 85px;
+	right: 0px;
+	width: 300px;
+	height: 200px;
+}
+
+.pachetx div.thumbx img.traditionala {
+	position: absolute;
+	top: 30px;
+	right: 40px;
+}
+
+.pachetx h1.pretx {
+	width: auto;
+	font-weight: bold;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	cursor: pointer;
+	font-family: 'Alegreya SC'!important;
+    line-height: 28px!important;
+	font-size: 26px!important;
+    margin: 0px!important;
+	/*text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #def;*/
+}
+.pachetx h1.pretx span {
+	font-size: 22px;
+	color: #d00;
+}
+.h50 { height: 50px; }
+.pachetx .detaliix {
+	position: absolute;
+	left: 30px;
+	top: 320px;
+}
+.pachetx .detaliix p {
+	background: url(../text/telefon-pachet.jpeg) left top no-repeat;
+	padding-left: 35px;
+	font-family: tahoma;
+	font-size: 17px;
+	line-height: 15px;
+	font-weight: bold;
+	color: #6C6C6C;
+}
+
+.pachetx .detaliix p span.red {
+	color: #9C0000;
+}
+
+.pachetx span.pretx-detail {
+	position: absolute;
+	top: 50px;
+	left: 20px;
+	color: #da3131;
+	font-weight: bold;
+	font-size: 12px;
+}
+ul.traditionala-trei {
+	margin-left: 25px;
+}
+.pachetx div.pret-final {
+	position: absolute;
+	top: 300px;
+	right: 0px;
+
+	font-weight: bold;
+	font-size: 30px;
+	color: #848484;
+	text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #def;
+	opacity: 0.4;
+}
+img.wurt {
+	position: absolute;
+	top: 233px;
+	right: 10px;
+}
+/* MNS ends here 
+--------------------------------------------*/
+
+.h20 {
+	height: 20px;
+}
+.telefon-dreapta {
+	margin-left: 100px;
+}
+.siglex {
+	position: absolute;
+	top: 265px;
+	right: 20px;
+}
+
+/* LE Aiurea */
+.hhh {
+	height: 50px;
+}
+#content-area .content-container.page {
+    padding-bottom: 10px;
+}
+#footer .right .adr {
+    margin-top: 0px!Important;
+}
+
+.col-1 {
+    float: left;
+    width: 340px;
+}
+.col-2 {
+    float: left;
+    width: 640px;
+}
+.p {
+    position: relative;
+    width: 980px;
+    height: 310px;
+    background: url(../img/p.jpg) left top no-repeat;
+    margin: 20px 0px;
+}
+
+#content-area .content-container.page
+{
+ border-radius: 0px;   
+    border: 0px;
+}
+.col-1, .col-2 {
+    height: 220px;
+    padding-top: 20px;
+}
+.col-1 h1 {
+    font-family: Georgia;
+    font-size: 22px;
+    line-height: 24px;
+    color:#333332;
+    font-weight: bold;
+    margin: 0px 0px 0px 25px;
+}
+.col-1 h2 {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 16px;
+    color:#cc111e;
+    font-weight: normal;
+    margin: 0px 0px 0px 25px;
+    padding: 0px;
+}
+.col-2 ul li {
+    font-size: 14px;
+    line-height: 16px;
+    font-family: Tahoma;
+    color: #fefefe;
+}
+.col-2 ul.left, .col-2 ul.right {
+    float: left; 
+    margin-left: 100px;
+}
+.i {
+    margin-top: 30px;
+    float: left;
+    width: 370px;
+    background-color: #4d0d0d;
+    padding: 7px 20px;
+    font-family: georgia;
+    font-size: 19px;
+    line-height: 22px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+.t {
+    float: right;
+    margin-top: 10px;
+    background-color: #333;
+    padding: 10px 25px;
+    font-size: 20px;
+    line-height: 22px;
+    color: #fff6e5;
+    font-family: Arial;
+}
+.btns a:hover { text-decoration: none; background: #f2f2f2; color:black;}
+.btns a:hover span { color: #a43c3b; }
+.bgalb .span2 {
+  width: 120px;
+  border-left: 1px solid #333;
+  text-align: center;
+  color: #EBDCBC;
+  font-size: 14px;
+  line-height: 16px;
+  padding: 5px 0px;
+  margin-left: 10px;
+}
+.bgalb .span2 span {
+      font-size: 20px;
+  line-height: 27px;
+  color: white;
+}
+.bgalb {   background: #000001;
+  border-bottom: 4px solid #C09F65; }
+.no-b {
+    border: 0px!important;
+}
+.g2 {
+      padding: 25px;   
+}
+.middle { width: 1000px; }
+.g2 h1, .g2 h2, .g2 h3 {
+    font-size: 36px;
+  color: #d4c8ae;
+  line-height: 36px;
+  text-shadow: 1px 1px 2px #000000;
+  font-family: Georgia, Times, serif;
+}
+.vcard {
+    position: relative;
+  z-index: 99999;
+}
+.g2 h1 {
+  font-family: Georgia, serif;
+  font-size: 28px!important;
+  line-height: 28px;
+  font-weight: lighter;
+  font-style: normal;
+  text-transform: normal;
+  letter-spacing: 1.5px;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+  color: #C95800;
+    }
+.g2 h2 {
+      font-size: 18px;
+  font-weight: normal;
+  text-shadow: none;
+  color: black;
+  font-style: italic;
+  margin: 0px;
+}
+.g2 h3 {
+      font-size: 16px;
+  line-height: 18px;
+  font-weight: normal;
+  text-shadow: none;
+  color: black;
+  margin: 0px;
+}

@@ -1,0 +1,579 @@
+<div class="to">
+                        <img src="img/bg-3blocks.png">
+                    </div>
+                    <div class="span12 main-content" id="main-content" style="margin:0px auto;padding:0px;">
+                        <div class="cornered">  
+<div class="hhh"><!-- --></div>
+
+<!-- pachete 0lei -->
+<div class="pachetx" id="zerox">
+
+	<div class="listex">
+		<ul class="lista-unux traditionala-unu">
+			<li>Sicriu Traditional Complet</li>
+			<li>Imbracaminte saten</li>
+			<li>Capac sicriu saten</li>
+			<li>Orar mare si orar mic</li>
+			<li>Perna - Vual</li>
+			<li>Cruce scrisa</li>
+			<li>Constatare deces</li>
+			<li>Imbalsamare</li>
+			<li>Spalat si imbracat</li>
+			<li>Declararea decesului</li>
+		</ul>
+		<ul class="lista-doix traditionala-doi">
+			<li>Certificat de deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Acte Sanepid: depunere capela</li>
+			<li>Transport funerar</li>
+			<li>Cos coliva (2buc)</li>
+			<li>Sticla vin + ulei</li>
+			<li>Set pahare plastic (coliva)</li>
+			<li>Colaci</li>
+			<li>Cap, Prescura, Arhanghel</li>
+		</ul>
+
+		<ul class="lista-doix traditionala-trei">
+			<li>6 pachete pentru pomana</li>
+			<li>12 bucati batiste, banuti, lumanari</li>
+			<li>20 dolii pus in piept</li>
+			<li>Doliu de pus la usa</li>
+			
+			<li>4 prosoape mici</li>
+			<li>2 prosoape mari</li>
+			<li>Manipulare sicriu optional</li>
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Pensionari Traditional</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+	<!-- <span class="pretx-detail">Se achita cu talonul de pensie</span> -->
+
+	<div class="thumbx">
+		<img class="traditionala" src="text/sicriu-pachet-traditional.png" title="Sicriu Pachet Promotional" alt="Sicriu Pachet Promotional">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 1 / 0lei ends here -->
+
+<div class="pachetx" id="zerox">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Premium</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Toaletare (spalat, imbracat, barbierit)</li>
+		</ul>
+		<ul class="lista-doix">
+			<li>Asezare decedat in sicriu</li>
+			<li>Medic constatare deces</li>
+			<li>Medic imbalsamare</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Transport biserica - cimitir</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Pensionari Complet</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+	<!-- <span class="pretx-detail">Se achita cu talonul de pensie</span> -->
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-premium23.jpg" title="Sicriu Pachet Pensionari Complet" alt="Sicriu Pachet Promotional">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 2 / 0lei ends here -->
+
+<!-- end pachete 0lei -->
+
+<!-- start aici -->
+<div class="pachetx" id="zerox">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Premium</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la spital</li>
+			<li>Asezarea decedatului in sicriu</li>
+		</ul>
+		<ul class="lista-doix">
+			<li>Transport Decedat Capela - Cimitir</li>
+			<li>Manipularea Decedatului (Capela)</li>
+			<li>Acte Necesare Inmormantare</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid (depunere capela)</li>
+			<li>Efectuarea dosarului de ajutor deces</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+			
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Gratuit Spital</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+	<!-- <span class="pretx-detail">Se achita cu talonul de pensie</span> -->
+
+	<div class="thumbx">
+		<img src="text/spital-sicriu.png" title="Sicriu Pachet Gratuit Spital" alt="Sicriu Pachet Gratuit Spital">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 2 / 0lei ends here -->
+
+<!-- end pachete 0lei -->
+
+<!-- end aici -->
+
+<div class="pachetx" id="promotionalx">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Sociala</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+		</ul>
+		<ul class="lista-doix">
+			<li>Asezare decedat in sicriu</li>
+			<li>Medic constatare deces</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Social</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-promotional2.jpeg" title="Sicriu Pachet Promotional" alt="Sicriu Pachet Promotional">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	 <!-- <img class="siglex" src="text/sigla-home.png"> -->
+	<div class="clearfix"><!-- clear fix --></div>
+</div>
+                            <div class="h50"><!-- --></div> <!-- pachet 1 ends here -->
+
+
+
+<div class="pachetx" id="completx">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Toaletare (spalat, imbracat, barbierit)</li>
+			<li>Asezare decedat in sicriu</li>
+			
+		</ul>
+		<ul class="lista-doix">
+			<li>Medic constatare deces</li>
+			<li>Medic imbalsamare</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Transport biserica - cimitir</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Economic</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-promotional.jpeg" title="Sicriu Pachet Complet" alt="Sicriu Pachet Complet">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<!-- <img class="siglex" src="text/sigla-home.png"> -->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 2 ends here -->
+
+<div class="pachetx" id="mediux">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Mediu</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Toaletare (spalat, imbracat, barbierit)</li>
+			<li>Asezare decedat in sicriu</li>
+			
+		</ul>
+		<ul class="lista-doix">
+			<li>Medic constatare deces</li>
+			<li>Medic imbalsamare</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Transport biserica - cimitir</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+			
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Mediu</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-mediu.jpeg" title="Sicriu Pachet Mediu" alt="Sicriu Pachet Mediu">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<!-- <img class="siglex" src="text/sigla-home.png"> -->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 3 ends here -->
+
+<div class="pachetx" id="premiumx">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Mediu/Lux</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Toaletare (spalat, imbracat, barbierit)</li>
+			<li>Asezare decedat in sicriu</li>
+			
+		</ul>
+		<ul class="lista-doix">
+			<li>Medic constatare deces</li>
+			<li>Medic imbalsamare</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Transport biserica - cimitir</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+			
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Premium</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-premium23.jpeg" title="Sicriu Pachet Premium" alt="Sicriu Pachet Premium">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<!-- <img class="siglex" src="text/sigla-home.png"> -->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 4 ends here -->
+
+<div class="pachetx" id="luxx">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Lux</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Toaletare (spalat, imbracat, barbierit)</li>
+			<li>Asezare decedat in sicriu</li>
+			
+		</ul>
+		<ul class="lista-doix">
+			<li>Medic constatare deces</li>
+			<li>Medic imbalsamare</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Transport biserica - cimitir</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Lux</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-lux23.jpeg" title="Sicriu Pachet Lux" alt="Sicriu Pachet Lux">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<!-- <img class="siglex" src="text/sigla-home.png"> -->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 5 ends here -->
+
+<div class="pachetx" id="lux-completx">
+
+	<div class="listex">
+		<ul class="lista-unux traditionala-unu">
+			<li>Sicriu Traditional Complet</li>
+			<li>Imbracaminte saten</li>
+			<li>Capac sicriu saten</li>
+			<li>Orar mare si orar mic</li>
+			<li>Perna - Vual</li>
+			<li>Cruce scrisa</li>
+			<li>Constatare deces</li>
+			<li>Imbalsamare</li>
+			<li>Spalat si imbracat</li>
+			<li>Declararea decesului</li>
+		</ul>
+		<ul class="lista-doix traditionala-doi">
+			<li>Certificat de deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Acte Sanepid: depunere capela</li>
+			<li>Transport funerar</li>
+			<li>Cos coliva (2buc)</li>
+			<li>Sticla vin + ulei</li>
+			<li>Set pahare plastic (coliva)</li>
+			<li>Colaci</li>
+			<li>Cap, Prescura, Arhanghel</li>
+		</ul>
+
+		<ul class="lista-doix traditionala-trei">
+			<li>12 pachete pentru pomana</li>
+			<li>12 bucati batiste, banuti, lumanari</li>
+			<li>20 dolii pus in piept</li>
+			<li>Doliu de pus la usa</li>
+			
+			<li>4 prosoape mici</li>
+			<li>2 prosoape mari</li>
+			<li>Manipulare sicriu optional</li>			
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Lux Complet</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="text/sicriu-pachet-super-new.png" title="Sicriu Pachet Lux Complet" alt="Sicriu Pachet Lux Complet" style="margin: 10px 20px 0px 78px;width: 200px;">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+	<!-- <img class="siglex" src="text/sigla-home.png"> -->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 6 ends here -->
+
+<div class="pachetx" id="bostonx">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Complet - Clasa Lux</li>
+			<li>Lenjerie sicriu</li>
+			<li>Orarul mare</li>
+			<li>Orarul mic</li>
+			<li>Panza de fata</li>
+			<li>Capitonaj capac sicriu</li>
+			<li>Cruce lemn inscriptionata</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Toaletare (spalat, imbracat, barbierit)</li>
+			<li>Asezare decedat in sicriu</li>
+			
+		</ul>
+		<ul class="lista-doix">
+			<li>Medic constatare deces</li>
+			<li>Medic imbalsamare</li>
+			<li>Declararea decesului</li>
+			<li>Certificat deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Autorizatie Sanepid</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Transport biserica - cimitir</li>
+			<li>12 batiste, 12 lumanari, 12 dolii</li>
+			<li>1 doliu de pus la usa</li>
+			
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Boston</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="/boston.png" title="Sicriu Pachet Boston" alt="Sicriu Pachet Boston">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+<!--	<img class="siglex" src="/text/sigla-home.png">-->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 7 ends here -->
+
+<!-- pachete incinerare start -->
+<div class="pachetx" id="inc-completax">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu tranzit (clasa medie)</li>
+			<li>Cruce scrisa</li>
+			<li>Constatare deces</li>
+			<li>Imbalsamare</li>
+			<li>Spalat si imbracat</li>
+			<li>Declararea decesului</li>
+			<li>Taxa incinerare</li>
+		</ul>
+		<ul class="lista-doix">
+			<li>Acte primarie</li>
+			<li>*certificat deces</li>
+			<li>*adeverinta inhumare</li>
+			<li>Acte aduse la domiciliu</li>
+			<li>Acte Sanepid: acte depunere capela</li>
+			<li>Programare crematoriu</li>
+			<li>Transport crematoriu</li>
+			<li>Manipulare sicriu optional</li>
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Incinerare Complet</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="/urns.png" title="Pachet Incinerare Completa" alt="Pachet Incinerare Completa">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+<!--	<img class="siglex" src="/text/sigla-home.png">-->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 8 ends here -->
+
+<div class="pachetx" id="inc-spitalx">
+
+	<div class="listex">
+		<ul class="lista-unux">
+			<li>Sicriu Tranzit (clasa medie)</li>
+			<li>Transport sicriu la domiciliu</li>
+			<li>Transport crematoriu - capela</li>
+			<li>Programare</li>
+			<li>Taxa incinerare INCLUSA</li>			
+		</ul>
+		<ul class="lista-doix">
+			<li>Eliberare acte de deces</li>
+			<li>Certificat de deces</li>
+			<li>Adeverinta inhumare</li>
+			<li>Aviz Depunere Capela (Sanepid)</li>
+			<li>Manipulare Sicriu Inclusa</li>
+			<li>Intocmire Dosar Ajutor Deces</li>
+			<li>12 Lumanari + Batiste + Banut</li>
+		</ul>
+		
+		<div class="clearfix"><!-- clear fix --></div>
+	</div>
+
+	<h1 class="pretx">Pachet Incinerare Spital</h1>
+	<span class="pretx-detail">Se achita cu talonul de pensie</span>
+
+	<div class="thumbx">
+		<img src="/urns_down.png" title="Pachet Incinerare Spital" alt="Pachet Incinerare Spital">
+	</div>
+	
+	<div class="detaliix">
+		<p>0724.112.655 <span class="red">pentru urgente NONSTOP</span></p>
+	</div>
+<!--	<img class="siglex" src="/text/sigla-home.png">-->
+	<div class="clearfix"><!-- clear fix --></div>
+</div><div class="h50"><!-- --></div> <!-- pachet 9 ends here -->
+<!-- incinerare ends -->
+                        </div>
+                    </div>  
